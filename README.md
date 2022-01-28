@@ -1,5 +1,5 @@
 
-# Still Works on OnePlus 3t
+# Still Works on OnePlus 3t (v15)
 
 Restoring on macOS & Linux
 ------
