@@ -1,3 +1,6 @@
+
+# Still Works on OnePlus 3t
+
 ## NEOS 15
 
 NEOS
