@@ -13,7 +13,7 @@ Restoring on macOS & Linux
 Restoring on Windows
 ------
 1. Install the Google USB driver for ADB (Android Debug Bridge)... https://developer.android.com/studio/run/win-usb
-2. Connect your comma two (via a USB-C to USB-A cable) or EON Gold (via a USB-mini-B to USB-A cable) to your computer
+2. Connect your EON
 3. Download and extract this repository
 4. Download & install Python 3
 5. Run download.py to download NEOS and flashing tools
